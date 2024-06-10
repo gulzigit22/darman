@@ -1,7 +1,7 @@
-import 'package:darman/ekrandar/ekran_1.dart';
-import 'package:darman/ekrandar/ekran_2.dart';
-import 'package:darman/ekrandar/ekran_3.dart';
-import 'package:darman/ekrandar/ekran_4.dart';
+import 'package:darman/view/ekran_1.dart';
+import 'package:darman/view/ekran_2.dart';
+import 'package:darman/view/ekran_3.dart';
+import 'package:darman/view/ekran_4.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {

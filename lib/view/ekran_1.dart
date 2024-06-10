@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:darman/modelder/1model.dart'; // Ensure this import is correct
+import 'package:darman/model/1model.dart'; // Ensure this import is correct
 
 class Ekran1 extends StatefulWidget {
   const Ekran1({super.key});
